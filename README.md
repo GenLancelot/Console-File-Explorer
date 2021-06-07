@@ -3,4 +3,4 @@ C console file explorer app , data storage based on Hashing Function
 
 You can find documentation(PL) in pdf file
 
-Work on Windows, doesnt work on visual studio (dirent.h)
+Work on Windows, compilation failing on visual studio (dirent.h)
